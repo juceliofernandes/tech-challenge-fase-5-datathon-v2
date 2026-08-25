@@ -1,0 +1,12 @@
+# Versões coerentes entre Colab, este arquivo e o modelo (.joblib).
+# Alvo de execução: Python 3.11 (Google Colab e Streamlit Community Cloud).
+# O .joblib foi treinado e validado com exatamente este stack de ML.
+streamlit==1.39.0
+pandas==2.2.3
+openpyxl==3.1.5
+numpy==2.5.2
+scikit-learn==1.9.0
+imbalanced-learn==0.14.2
+matplotlib==3.9.2
+seaborn==0.13.2
+joblib==1.5.3
