@@ -1,0 +1,14 @@
+# Versões coerentes entre Colab, este arquivo e o modelo (.joblib).
+# Streamlit Community Cloud: defina Python 3.12 (numpy 2.5.2 exige Python >= 3.12).
+# Google Colab usa 3.11 (os notebooks fixam numpy==2.4.6, compatível).
+# O app tenta carregar modelo_risco_defasagem.joblib; se a versão não bater,
+# ele TREINA o modelo na inicialização (mesmo pipeline do notebook 2).
+streamlit==1.39.0
+pandas==2.2.3
+openpyxl==3.1.5
+numpy==2.5.2
+scikit-learn==1.9.0
+imbalanced-learn==0.14.2
+matplotlib==3.9.2
+seaborn==0.13.2
+joblib==1.5.3

@@ -1,0 +1,5 @@
+﻿faixa_ips,alunos,variacao_media_ida,variacao_media_ieg,queda_ida_pct,queda_ieg_pct
+IPS mais baixo (P0–25),345,-0.341,-0.395,52.464,51.594
+P25–50,232,-0.345,-0.682,55.172,58.621
+P50–75,451,0.049,-0.148,47.672,45.233
+IPS mais alto (P75–100),275,-0.356,-0.651,54.182,56.727

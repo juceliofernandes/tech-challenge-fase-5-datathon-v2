@@ -1,0 +1,5 @@
+﻿modelo,cv_pr_auc,cv_roc_auc,cv_recall,limiar_treino,teste_pr_auc,teste_roc_auc,teste_recall,teste_precision,teste_f1
+Regressão logística,0.908,0.8739,0.9836,0.1156,0.652,0.7554,0.8117,0.547,0.6536
+Extra Trees,0.9057,0.8779,0.9645,0.2808,0.8403,0.8843,0.9383,0.5934,0.727
+Random Forest,0.897,0.8677,0.9809,0.2056,0.8384,0.8822,0.9805,0.5562,0.7098
+HistGradientBoosting,0.89,0.8496,0.9809,0.0888,0.8212,0.8687,0.9578,0.5403,0.6909
